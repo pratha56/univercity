@@ -1,0 +1,4 @@
+pandas-profiling==2.10.0
+streamlit==0.80.0
+numexpr==2.7.1
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
